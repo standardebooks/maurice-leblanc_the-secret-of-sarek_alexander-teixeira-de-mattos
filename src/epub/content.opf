@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Secret of Sarek</dc:title>
 		<meta property="file-as" refines="#title">Secret of Sarek, The</meta>
 		<dc:subject id="subject-1">Kidnapping -- Fiction</dc:subject>
@@ -34,20 +34,23 @@
 		<dc:subject id="subject-3">Detective and mystery stories, French -- Translations into English</dc:subject>
 		<dc:subject id="subject-4">Families -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Brittany (France) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/34939</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/34939</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/34939</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/34939</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/34939</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008106302</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2010100204</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2009123252</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008103507</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While watching a film, Véronique d’Hergemont spots her childhood signature mysteriously written on the side of a hut in the background of a scene. Her visit to the location of the film shoot deepens the mystery, but also provides further clues that point her towards long-lost relations and a great secret from ancient history: a secret that will require the services of a particular man to unravel.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Secret of Sarek&lt;/i&gt; was published in the original French in 1919, and in this English translation in 1920. It was Maurice Leblanc’s first Arsène Lupin novel written after the Great War, and its impact on Leblanc is palpable: the novel has a much darker tone than earlier works, and even the famous cheery charm of Lupin is diluted. The result is a classic horror story, bringing a new dimension to the series.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34939</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100405909</dc:source>
