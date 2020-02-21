@@ -62,16 +62,16 @@ p span.i2{
 }
 
 /* card in chapter 1 */
-.card{
+#chapter-1 blockquote:first-of-type{
 	display: inline-block;
 }
 
-.card p{
+#chapter-1 blockquote:first-of-type p{
 	text-indent: 0;
 	font-style: italic;
 }
 
-.card b{
+#chapter-1 blockquote:first-of-type b{
 	display: block;
 	text-align: center;
 	font-style: normal;
