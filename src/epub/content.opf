@@ -46,7 +46,7 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
-		<meta property="collection-type" refines="collection-1">series</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While watching a film, Véronique d’Hergemont spots her childhood signature mysteriously written on the side of a hut in the background of a scene. Her visit to the location of the film shoot deepens the mystery, but also provides further clues that point her towards long-lost relations and a great secret from ancient history: a secret that will require the services of a particular man to unravel.&lt;/p&gt;
