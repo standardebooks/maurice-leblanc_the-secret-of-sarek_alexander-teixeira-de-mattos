@@ -63,12 +63,12 @@ p span.i2{
 }
 
 #chapter-1 blockquote:first-of-type p{
-	text-indent: 0;
 	font-style: italic;
+	text-indent: 0;
 }
 
 #chapter-1 blockquote:first-of-type b{
 	display: block;
-	text-align: center;
 	font-style: normal;
+	text-align: center;
 }
