@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/maurice-leblanc/the-secret-of-sarek/alexander-teixeira-de-mattos</dc:identifier>
 		<dc:date>2019-04-03T00:28:05Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">10</meta>
-		<dc:description id="description">After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>After seeing her name in an unrelated film, a woman traces the clues that lead her to a terrifying secret.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;While watching a film, Véronique d’Hergemont spots her childhood signature mysteriously written on the side of a hut in the background of a scene. Her visit to the location of the film shoot deepens the mystery, but also provides further clues that point her towards long-lost relations and a great secret from ancient history: a secret that will require the services of a particular man to unravel.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Secret of Sarek&lt;/i&gt; was published in the original French in 1919, and in this English translation in 1920. It was &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc’s&lt;/a&gt; first &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; novel written after the Great War, and its impact on Leblanc is palpable: the novel has a much darker tone than earlier works, and even the famous cheery charm of Lupin is diluted. The result is a classic horror story, bringing a new dimension to the series.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/34939</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100405909</dc:source>
