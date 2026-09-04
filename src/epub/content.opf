@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Secret of Sarek</dc:title>
 		<meta property="file-as" refines="#title">Secret of Sarek, The</meta>
-		<dc:subject id="subject-1">Kidnapping -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Detective and mystery stories, French -- Translations into English</dc:subject>
-		<dc:subject id="subject-4">Families -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Brittany (France) -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Kidnapping--Fiction</dc:subject>
+		<dc:subject id="subject-2">Lupin, Arsène (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Detective and mystery stories, French--Translations into English</dc:subject>
+		<dc:subject id="subject-4">Families--Fiction</dc:subject>
+		<dc:subject id="subject-5">Brittany (France)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008106302</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
